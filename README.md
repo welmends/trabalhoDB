@@ -2,12 +2,12 @@
 
 Projeto sendo feito com fins de aprendizagem sobre banco de dados. Por isso não poderemos usar as facilidades do laravel/eloquent quando a queries no banco. 
 
-## Equipe:
+### Equipe:
 
-* Cibele Paulino Andrade
-* Elias Paulino Andrade
-* Francisco Juarez da Silva Junior
-* João Wellington Mendes de Souza
+* #### Cibele Paulino Andrade
+* #### Elias Paulino Andrade
+* #### Francisco Juarez da Silva Junior
+* #### João Wellington Mendes de Souza
 
 * ### Laravel
 É um framework mvc que tem muitas facilidades, nos vamos usar: autenticação, rotas, estrutura MVC(model view control).  
